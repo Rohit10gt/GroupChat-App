@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628062358125",
+    "project_id": "chatboat-3e32b",
+    "storage_bucket": "chatboat-3e32b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628062358125:android:6db02476fc4bbe54528d64",
+        "android_client_info": {
+          "package_name": "com.spookrohit.chatboat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628062358125-s6u84j1hbd6u5mefhhjdh5l654e3dd22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL4JB0KJA4IaZLu868OKfl-apAI_8bKxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628062358125-s6u84j1hbd6u5mefhhjdh5l654e3dd22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
